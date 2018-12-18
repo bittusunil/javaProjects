@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotelsearchrequest>
+    <head>
+        <dateformat></dateformat>
+        <session></session>
+        <Echotoken></Echotoken>
+       
+    </head>
+  <clientinfo>
+    <locale></locale>
+    <brand></brand>
+    <mandator></mandator>
+    <productioncode></productioncode>
+    <agentcode></agentcode>
+ </clientinfo>
+ <searchcriteria>
+     <arrivaldate></arrivaldate>
+     <duration></duration>
+     <cityid></cityid>
+ </searchcriteria>
+ <roomcriteria>
+     <occupany></occupany>
+     <participantage></participantage>
+     <title></title>
+     <firstname></firstname>
+     <lastname></lastname>
+     <businesscriteria>
+         <skipmarkup></skipmarkup>
+     </businesscriteria>
+ </roomcriteria>
+    
+</hotelsearchrequest>

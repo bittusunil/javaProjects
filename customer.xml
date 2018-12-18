@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AllCustomers>
+  <Customer type="permanent">
+        <Name>bittu</Name>
+        <Id>3674</Id>
+        <Age>25</Age>
+   </Customer>
+  <Customer type="contract">
+        <Name>sunil</Name>
+        <Id>3675</Id>
+        <Age>25</Age>
+    </Customer>
+</AllCustomers>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="D:/maven-3.0.3/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/maven-3.0.3/lib/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/apache-tomcat-6.0.28/lib/js-1.7R2.jar"/>
+	<classpathentry kind="lib" path="D:/maven-1.0.2/lib/commons-beanutils-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/maven-1.0.2/lib/commons-collections-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/maven-1.0.2/lib/commons-logging-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/maven-3.0.3/lib/java-json.jar/java-json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
